@@ -5,8 +5,8 @@
 
 \*====================================================================================================================*/
 
-#include "acutest.h"
-#include "Std_Types.h"
+#include "../acutest.h"
+#include "../Std_Types.h"
 
 #include "Lib_Calc.c"   /* To nie pomyłka - taki include eksponuje zmienne statyczne dla testów */
 
